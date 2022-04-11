@@ -1,0 +1,8 @@
+@font-face {
+  font-family: grapenuts;
+  src: url(./assets/fonts/GrapeNuts-Regular.ttf);
+}
+
+h1{
+  font-family: grapenuts;
+}
